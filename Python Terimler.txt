@@ -1,0 +1,5 @@
+Ýnteger = Tamsayýlar (//)
+Float = Ondalýklý Sayýlar
+Stringler = Karakter dizileri ('-")
+Karakter yerleri = Ýndeks [1-2-3..]
+Lenght = Uzunluk (len)
